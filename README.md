@@ -1,4 +1,6 @@
-# Shockwave Code (Gameplay Extract)
+# Shockwave Code
+
+![Gif](ShockwaveGif.mp4)
 
 Gameplay-focused C# code from my Unity project.  
 This repository intentionally contains **only the gameplay domain** (no full Unity template, no complete project setup, no plugin packages).
