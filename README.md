@@ -1,6 +1,6 @@
 # Shockwave Code
 
-![Gif](ShockwaveGif.Gif)
+![Gif](Shockwave-Code/ShockwaveGif.gif)
 
 Gameplay-focused C# code from my Unity project.  
 This repository intentionally contains **only the gameplay domain** (no full Unity template, no complete project setup, no plugin packages).
